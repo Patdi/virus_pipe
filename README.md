@@ -9,3 +9,4 @@ Scripts automates Trimmomatic-0.36, fastqc, Trinity, bwa, samtools, fasta_format
 Additional scripts:
 build_dictionary.sh: will create a genomic index that can be added to virus_pipe_accurate.sh to automate additional geneomes.
 crawler.sh: provides an example of moving within the output file structure to pull out, delete or change files. 
+
