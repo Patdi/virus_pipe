@@ -1,4 +1,4 @@
-# virus_discovery
+# virus_pipe
 Automated script for virus discovery
 
 Supported inputs: fasta, fastq or fastq.gz. 
