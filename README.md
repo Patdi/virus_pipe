@@ -7,7 +7,7 @@ It supports input files in:
 - `*.fastq.gz`
 - `*.fasta`
 
-The pipeline orchestrates trimming, QC, assembly, mapping, unmapped read extraction, contig construction, `blastn`/`blastx`, and virus-focused reporting.
+The pipeline orchestrates trimming, QC, assembly, mapping, unmapped read extraction, contig construction, `blastn`/`blastx`, and virus-focused discovery.
 
 ## Repository contents
 
